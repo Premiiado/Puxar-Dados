@@ -21,7 +21,9 @@ Telefone: Formato internacional; Formato local; País; Cidade/Estado; Operadora;
 
 [+] Instalação: Para instalar no seu Termux, siga os comandos:
 
-apt update && apt upgrade apt instala python pkg install git git clone 
-ls cd snuking python install.py python consulta.py
+apt update && apt upgrade apt install python pkg install git
+git clone https://github.com/Premiiado/Puxar-Dados 
+ls
+cd snuking python install.py python consulta.py
 
 © Gab, 2022
